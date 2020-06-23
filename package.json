@@ -27,6 +27,7 @@
   "files": [
     "src",
     "hummus.js",
+    "hummus.d.ts",
     "binding.gyp",
     "PDFRStreamForFile.js",
     "PDFStreamForResponse.js",
